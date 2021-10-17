@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mimsiii
 - 👀 I’m interested in coding, nature, cats😸
-- 🌱 I’m currently learning C# .NET Core, HTML5 & CSS3, C++, SQL, MYSQL, more is yet to be learned. 
+- 🌱 I’m currently learning C# .NET Core, HTML5 & CSS3 
 - 📫 How to reach me: here or on m.a.r.iiii.a@abv.bg. 
 
 <!---
