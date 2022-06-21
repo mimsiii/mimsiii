@@ -3,9 +3,10 @@
 - 🌱 I’m currently learning PHP and algorithms and data structures with C++
 - 📫 How to reach me: here or on m.tsenkina@gmail.com
 
-Passionate about Data Analysis. 
-I have personal experience with SQL, MSSQ, Power BI, Tableau.
-Working experience with Microsoft Excel, Outlook, VBA, Google Sheets.
+Problem-solver, analytical thinker, perfectionist, who desires to progress and to become an experienced Software Developer and a valuable Team Member.
+I'm currently on my journey of studying Software Development.
+So far I'm familiar with C++, SQL, C#, JavaScript, PHP, SSMS, MySQL, .NET Framework, HTML & CSS, but I'm always adding a new skill to my repertoire.
+More precisely I'm more into back end programming.
 
 <!---
 mimsiii/mimsiii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
