@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @mimsiii
 - 👀 I’m interested in coding, nature, cats😸
 - 🌱 I’m currently learning PHP and algorithms and data structures with C++
-- 📫 How to reach me: here or on m.tsenkina@gmail.com
 
 Problem-solver, analytical thinker, perfectionist, who desires to progress and to become an experienced Software Developer and a valuable Team Member.
 I'm currently on my journey of studying Software Development.
