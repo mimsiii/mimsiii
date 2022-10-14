@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mimsiii
+- 👋 Hi, I’m Mariya
 - 👀 I’m interested in coding, nature, cats😸
 - 🌱 I’m currently learning Python
 
