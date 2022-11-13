@@ -16,6 +16,8 @@ You can click the Preview link to take a look at your changes.
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mimsiii&theme=dark&background=000000)](https://git.io/streak-stats)
 
+![Codewars](https://github.r2v.ch/codewars?user=mimsiii&stroke=%23BB432C)
+
 <!-- <h3 align="left">Connect with me:</h3> -->
 <p align="left">
 <a href="https://linkedin.com/in/mariya-tsenkina" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mariya-tsenkina" height="30" width="40" /></a>
